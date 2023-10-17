@@ -22,17 +22,31 @@ Kelas   : TI.22.A.1
 
 1. Persiapan membuat dokumen HTML dengan nama file Lab4_box.html seperti berikut ini.
 
+![lab4 awal](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/f79fd82f-092d-446a-b611-13eb516e160e)
+
 2. Selanjutnya kita akan membuat Box Element, kemudian kita tambahkan kode untuk membuat box element dengan tag div seperti berikut.
+
+![lab4 awal1](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/999fb30a-8d8a-4eb0-bbaa-2137248f3297)
 
 3. Setelah itu kita akan membuat CSS Float Property nya, kemudian tambahkan deklarasi CSS pada head untuk membuat float element seperti gambar berikut.
 
+![lab4 awal2](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/79e32bdf-b682-4ef1-835b-1f6fe7ddcd56)
+
 4. Selanjutnya kita coba untuk dirunning dengan membuka browser untuk melihat hasilnya, seperti gambar berikut.
+
+![lab4 awal3](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/1cdf1b6b-709b-4344-bf33-fe8c1d16d1d8)
 
 5. Selanjutnya kita akan mengatur clearfix element. Clearfix digunakan untuk mengatur element setelah float element, property clear digunakan untuk mengaturnya. Kemudian kita tambahkan element div lainnya setelah div3 seperti gambar berikut.
 
+![lab4 awal4](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/4695d03f-c4cd-4f46-a718-4144f4dc1dbb)
+
 6. Kemudian kita atur property clear pada CSS seperti berikut.
 
+![lab4 awal5](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/4bd5e9d4-f065-4906-95a8-53dd0549689f)
+
 7. Selanjutnya kita running kembali dan membuka browsernya kembali untuk melihat hasilnya seperti gambar berikut.
+
+![lab4 awal6](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/289eaafd-68f6-41b2-b96a-f53dbda0b333)
 
 8. Kemudian lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right), dan amati perubahannya.
 
