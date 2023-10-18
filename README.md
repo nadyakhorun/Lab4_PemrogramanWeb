@@ -150,8 +150,20 @@ Kelas   : TI.22.A.1
 
    => buat single layout yang berisi deskripsi, portfolio, dll
 
-2. Tambahkan layout untuk menu Contact
+   ![about 1](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/14c5dddf-9625-4ba1-817a-cb6a583b28bd)
+
+![about 2](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/176dfed9-4280-4a4c-9731-deae17715074)
+
+![hasil about](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/8033b5a4-8df9-4099-bd65-ccd4b2f654a5)
+
+3. Tambahkan layout untuk menu Contact
 
    => yang berisi form isian: nama, email, message, dll
+
+![contact 1](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/7ea7f9bd-9fcf-4511-a5c2-917de29917b2)
+
+![contact 2](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/134cc7e3-10c4-4650-b194-cada3fc42f89)
+
+![hasil contact](https://github.com/nadyakhorun/Lab4_PemrogramanWeb/assets/115801823/0f9e0d4e-0816-4ea2-9765-df45a35fdf56)
 
 # Sekian, Terima Kasih
